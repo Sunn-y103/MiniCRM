@@ -1,9 +1,5 @@
 # Mini CRM Mobile Application
 
-> 🚀 **Dev Innovations Labs React Native Developer Assignment**
-
-A comprehensive Customer Relationship Management (CRM) mobile application built with React Native, featuring authentication, customer management, lead tracking, and analytics dashboard.
-
 ## 📱 Features
 
 ### ✅ Implemented Features
